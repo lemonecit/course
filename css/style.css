@@ -5,3 +5,44 @@ color:white;
 
 
 }
+
+
+.container {
+
+width:400px;
+height:150px;
+background-color:white;
+border:1px solid black;
+
+}
+
+.content {
+
+margin-left:auto;
+margin-right:auto;
+width:95%;
+
+}
+
+.lt-panel {
+
+float:left;
+width:60%;
+
+}
+
+.rt-panel{
+
+float:left;
+width:40%;
+
+}
+
+
+
+
+img {
+
+width:80%;
+
+}
