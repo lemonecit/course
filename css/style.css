@@ -21,18 +21,19 @@ border:2px solid black;
 margin-left:auto;
 margin-right:auto;
 width:95%;
+height:100%;
 
 }
 
 .lt-panel {
-
+height:100%;
 float:left;
 width:60%;
 
 }
 
 .rt-panel{
-
+height:100%;
 float:left;
 width:40%;
 
@@ -41,14 +42,14 @@ width:40%;
 .social {
 
 width:100%;
-height:30px;
+height:30%;
 margin-left:auto;
 marign-right:auto;
 
 }
 
 .link {
-
+height:70%;
 float:left;
 
 }
