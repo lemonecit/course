@@ -38,6 +38,40 @@ width:40%;
 
 }
 
+.social {
+
+width:100%;
+height:30px;
+margin-left:auto;
+marign-right:auto;
+
+}
+
+.link {
+
+float:left;
+
+}
+
+.link i {
+
+  font-size:16px;
+  color:green;
+}
+
+.link a:hover {
+
+color:red;
+
+}
+
+.whatsapp {
+
+
+float:left;
+
+}
+
 
 
 
