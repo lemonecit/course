@@ -52,6 +52,7 @@ margin-right:auto;
 .link {
 width:50%;
 float:left;
+text-align: center;
 
 }
 
@@ -69,7 +70,7 @@ color:red;
 
 .whatsapp {
 width:50%;
-
+text-align: center;
 float:left;
 
 }
