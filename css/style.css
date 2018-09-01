@@ -49,14 +49,14 @@ margin-right:auto;
 }
 
 .link {
-height:70%;
+width:50%;
 float:left;
 
 }
 
 .link i {
 
-  font-size:16px;
+  font-size:30px;
   color:green;
 }
 
@@ -67,11 +67,19 @@ color:red;
 }
 
 .whatsapp {
-
+width:50%;
 
 float:left;
 
 }
+
+.whatsapp i {
+
+  font-size:30px;
+  color:green;
+}
+
+
 
 .profile { height:70%;
   width:100%;
