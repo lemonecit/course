@@ -73,6 +73,12 @@ float:left;
 
 }
 
+.profile { height:70%;
+  width:100%;
+  display: block;
+}
+
+
 .profile h2 {
 
 font-size:16px;
